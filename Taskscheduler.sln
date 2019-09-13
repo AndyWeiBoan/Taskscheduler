@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1F4B7292-C04F-4DEA-9A00-4B6E0122EF01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taskschedule", "Taskschedule\Taskschedule.csproj", "{81F1A9B3-FF3C-418B-884E-8C565F263053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F1A9B3-FF3C-418B-884E-8C565F263053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F1A9B3-FF3C-418B-884E-8C565F263053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F1A9B3-FF3C-418B-884E-8C565F263053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F1A9B3-FF3C-418B-884E-8C565F263053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{81F1A9B3-FF3C-418B-884E-8C565F263053} = {1F4B7292-C04F-4DEA-9A00-4B6E0122EF01}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54982DA5-4510-4FF0-BE44-0CF7E9459211}
+	EndGlobalSection
+EndGlobal
